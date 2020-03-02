@@ -1,0 +1,11 @@
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\bin\Debug\netcoreapp3.1\ChainOfResponse.exe
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\bin\Debug\netcoreapp3.1\ChainOfResponse.deps.json
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\bin\Debug\netcoreapp3.1\ChainOfResponse.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\bin\Debug\netcoreapp3.1\ChainOfResponse.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\bin\Debug\netcoreapp3.1\ChainOfResponse.dll
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\bin\Debug\netcoreapp3.1\ChainOfResponse.pdb
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\obj\Debug\netcoreapp3.1\ChainOfResponse.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\obj\Debug\netcoreapp3.1\ChainOfResponse.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\obj\Debug\netcoreapp3.1\ChainOfResponse.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\obj\Debug\netcoreapp3.1\ChainOfResponse.dll
+C:\Users\МакишевЕ\source\repos\ChainOfResponse\ChainOfResponse\obj\Debug\netcoreapp3.1\ChainOfResponse.pdb
